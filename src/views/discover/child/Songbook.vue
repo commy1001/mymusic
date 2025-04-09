@@ -33,7 +33,7 @@ import livetv1 from "../../../songbook/livetv1.vue";
 import livetv2 from "../../../songbook/livetv2.vue";
 import livetv3 from "../../../songbook/livetv3.vue";
 import livetv4 from "../../../songbook/livetv4.vue";
-import Appfooter from "@/components/AppFooter.vue";
+import Appfooter from "@/components/Appfooter.vue";
 import request from '@/utils/request.js';
 import { ref } from "vue";
 
