@@ -26,7 +26,7 @@ import singerleft from '../../../singger/singerleft.vue';
 import singgertitle from '../../../singger/singgertitle.vue';
 import singgerenglish from '../../../singger/singgerenglish.vue';
 import hotsinger from '../../../singger/hotsinger.vue';
-import Appfooter from '@/components/AppFooter.vue'
+import Appfooter from '@/components/Appfooter.vue'
 import english from '../../../singger/english.vue';
 import goTop from '@/components/goTop.vue'
 import Pagination from '../../../components/Pagination.vue';
