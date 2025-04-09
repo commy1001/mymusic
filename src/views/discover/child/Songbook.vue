@@ -24,7 +24,7 @@
 
 <script setup>
 import AppNav from "@/components/AppNav.vue";
-import Bookicons from "@/songbook/bookicons.vue";
+import Bookicons from "@/songbook/Bookicons.vue";
 import Booktitle from "../../../songbook/Booktitle.vue";
 import Booktitle2 from "../../../songbook/Booktitle2.vue";
 import Recomshowslist from "../../../songbook/Recomshowslist.vue";

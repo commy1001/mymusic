@@ -17,9 +17,7 @@
         </div>
     </div>
     </header>
-    <body>
-        
-    </body>
+   
    </main>
 </template>
 
